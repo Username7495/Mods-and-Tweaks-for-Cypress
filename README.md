@@ -36,6 +36,19 @@ NOTE: For optipine, the order matters!
 
 <img width="589" height="228" alt="image" src="https://github.com/user-attachments/assets/48ec73a3-2c15-41be-8c81-770b4673f7d2" />
 
+  ### Patching the Jar (Recommended
+  Patching the jar can be done with any jar, Vanilla, QOL, Reobf, etc. All you need is the mods, the jar, and 7zip/WinRAR. (Default Jar and 7Zip used for demonstration)
+
+  Unzip the contents of the mods, then with 7Z left click the jar and select "Open Archive".
+
+  <img width="987" height="709" alt="image" src="https://github.com/user-attachments/assets/2b85a3ae-2d10-4373-bf3c-f893193c8115" />
+
+  Drag the contents of the zip onto the jar (For optipine, add controls+ and optipine, then controls+ optipine)
+
+  <img width="1262" height="683" alt="image" src="https://github.com/user-attachments/assets/3156c7e4-f620-410b-81db-2f45f27c5b89" />
+
+  Once completed close 7zip and launch Cypress with the patched jar.
+  
 ## Hmod
 Hmod can be installed by patching the server jar or can be run via console.
 

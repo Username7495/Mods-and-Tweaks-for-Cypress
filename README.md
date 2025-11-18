@@ -16,20 +16,22 @@
   Any and all client mods for Cypress can be installed in two ways, patching the jar and adding to jar (MultiMC/Prism only). Patching the jar will work with any launcher, it requires a computer and 7Zip, WinRAR, or file editor of choice. Adding to the jar can only be done in Multi MC and it's derivatives.
 
   ### Adding to Jar
-  To add to a jar, you will need: A MultiMC based Minecraft launcher, a Cypress instance and any mods you would like to install.
+  To add to a jar, you will need: A MultiMC based Minecraft launcher, a Cypress instance using the REOBFUSCATED jar and any mods you would like to install.
   
-<img width="1536" height="983" alt="image" src="https://github.com/user-attachments/assets/3745cd27-d67c-4a46-9131-3ff4bb0c29f1" />
+<img width="1536" height="984" alt="image" src="https://github.com/user-attachments/assets/f07ec145-a96e-47c7-a328-72c105b7a9cd" />
 
-(To learn how to install Cypress there is a guide [here](https://alphaver.miraheze.org/wiki/Tutorial:Installing_AlphaVers))
+(To learn how to install Cypress there is a guide [here](https://alphaver.miraheze.org/wiki/Tutorial:Installing_AlphaVers), and the reobfuscated jar [here](https://github.com/FMG793/1.0.16.05_20-Cypress-Mods-And-Deobfuscated-Code/releases/tag/new))
 
 Then, with the Edit Instance window open, select "Add to Minecraft.jar" and select the mod's zip file
 
-<img width="1536" height="985" alt="image" src="https://github.com/user-attachments/assets/da0fbd72-b258-4f8f-b3cf-eee866eecf4b" />
+<img width="1536" height="986" alt="image" src="https://github.com/user-attachments/assets/d716de45-ea75-4e64-a3db-4a210b9b7800" />
 
 When complete it should look like the top when using vanilla, and bottom with optipine
 
-NOTE: the optipine patch MUST be ontop of optipine or Cypress WILL break!
+NOTE: For optipine, the order matters!
 
-<img width="611" height="229" alt="image" src="https://github.com/user-attachments/assets/18db5af8-8092-42cb-b1d4-805879996515" /> <img width="593" height="228" alt="image" src="https://github.com/user-attachments/assets/0c9ca6b9-1508-4817-ae51-99efece139eb" />
+<img width="579" height="158" alt="image" src="https://github.com/user-attachments/assets/3fccd2a9-1384-46b8-9c2f-3d8a5d600209" />
+
+<img width="589" height="228" alt="image" src="https://github.com/user-attachments/assets/48ec73a3-2c15-41be-8c81-770b4673f7d2" />
 
   ## Hmod

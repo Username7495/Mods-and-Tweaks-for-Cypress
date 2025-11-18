@@ -34,4 +34,10 @@ NOTE: For optipine, the order matters!
 
 <img width="589" height="228" alt="image" src="https://github.com/user-attachments/assets/48ec73a3-2c15-41be-8c81-770b4673f7d2" />
 
-  ## Hmod
+## Hmod
+Hmod can be installed by patching the server jar or can be run via console.
+
+Example: "java -classpath hmod_QoL.jar;ext1605_20_server_QoL.jar -Xmx1024M -Xms1024M Main".
+
+### Plugins
+In order to use plugins, insert it in the "plugins" folder in the directory where hmod server is located, then add the file name (without .jar) in "plugins" field in server.properties.

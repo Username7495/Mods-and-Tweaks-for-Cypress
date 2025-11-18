@@ -36,7 +36,7 @@ NOTE: For optipine, the order matters!
 
 <img width="589" height="228" alt="image" src="https://github.com/user-attachments/assets/48ec73a3-2c15-41be-8c81-770b4673f7d2" />
 
-  ### Patching the Jar (Recommended
+  ### Patching the Jar (Recommended)
   Patching the jar can be done with any jar, Vanilla, QOL, Reobf, etc. All you need is the mods, the jar, and 7zip/WinRAR. (Default Jar and 7Zip used for demonstration)
 
   Unzip the contents of the mods, then with 7Z left click the jar and select "Open Archive".

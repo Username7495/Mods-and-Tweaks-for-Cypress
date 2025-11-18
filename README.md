@@ -8,8 +8,10 @@
 
 
 ## Hmod Cypress
-  A bukkit-type plugin for Minecraft Alpha allowing for plugins on the server, and better server customization.
+  A bukkit-type modification for Minecraft Alpha allowing for plugins on the server, and better server customization.
 
+## MixxitPlugin
+  A PVP plugin for Hmod.
 
 # Installation Guide
   ## Controls+

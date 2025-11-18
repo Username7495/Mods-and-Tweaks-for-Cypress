@@ -8,7 +8,7 @@
   Controls+ can be installed by
 
 ## Hmod Cypress
-  A bukkit-type plugin for Minecraft Alpha allowing for plugins on the server
-
+  A bukkit-type plugin for Minecraft Alpha allowing for plugins on the server, and better server customization.
+  
   ### Installation
   Hmod Cypress can be installed by

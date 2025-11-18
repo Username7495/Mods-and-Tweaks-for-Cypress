@@ -9,6 +9,8 @@
 
 ## Hmod Cypress
   A bukkit-type modification for Minecraft Alpha allowing for plugins on the server, and better server customization.
+  
+<img width="858" height="508" alt="image" src="https://github.com/user-attachments/assets/7ec7eb1e-4e21-4a5b-a873-18cac69c96de" />
 
 ## MixxitPlugin
   A PVP plugin for Hmod.
@@ -54,5 +56,16 @@ Hmod can be installed by patching the server jar or can be run via console.
 
 Example: "java -classpath hmod_QoL.jar;ext1605_20_server_QoL.jar -Xmx1024M -Xms1024M Main".
 
+<img width="827" height="542" alt="image" src="https://github.com/user-attachments/assets/22c272d3-e18f-4d4e-8933-2019d66e1155" />
+
+When properly run, it should look like this:
+
+<img width="856" height="512" alt="image" src="https://github.com/user-attachments/assets/407c4a58-df56-44ba-bcf5-88ee3a0efa19" />
+
 ### Plugins
 In order to use plugins, insert it in the "plugins" folder in the directory where hmod server is located, then add the file name (without .jar) in "plugins" field in server.properties.
+
+<img width="1389" height="824" alt="image" src="https://github.com/user-attachments/assets/e937c81a-4ef7-4b39-a18a-ae6071f41bb0" />
+
+
+

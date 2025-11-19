@@ -73,3 +73,15 @@ If done properly a .properties file would have been made for it in the server fo
 
 <img width="1445" height="748" alt="image" src="https://github.com/user-attachments/assets/43381e56-9137-459c-865c-6dbb481bf833" />
 
+## Mixxit
+Mixxit is a plugin for Hmod that allows PVP and monsters in a Cypress server.
+
+When playing with Mixxit in a server, note that you must left click to equip armor and eat food
+
+<img width="854" height="480" alt="image" src="https://github.com/user-attachments/assets/4c536ce0-ff5b-48ee-a0e0-12a44e5d5cf8" />
+  
+  ### How to use
+  Mixxit is installed like any other Hmod plugin, you can configure it via its .properties file. Boomers controls Creeper spawning, PVP toggles combat, and drop-iventory controls if inventory is lost on death.
+  
+  <img width="580" height="397" alt="image" src="https://github.com/user-attachments/assets/d97dd664-ea1f-48f4-8cea-4ff3978c219c" />
+  

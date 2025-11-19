@@ -1,5 +1,5 @@
   # Controls+
-  Any and all client mods for Cypress can be installed in two ways, patching the jar and adding to jar (MultiMC/Prism only). Patching the jar will work with any launcher, it requires a computer and 7Zip, WinRAR, or file editor of choice. Adding to the jar can only be done in Multi MC and it's derivatives.
+  Any and all client mods for Cypress can be installed in two ways, patching the jar and adding to jar (MultiMC/Prism only). Patching the jar will work with any launcher, it requires a computer and 7Zip, WinRAR, or file editor of choice. Adding to the jar can only be done in MultiMC and it's derivatives.
 
   ### Adding to Jar
   To add to a jar, you will need: A MultiMC based Minecraft launcher, a Cypress instance using the REOBFUSCATED jar and any mods you would like to install.

@@ -14,3 +14,4 @@
 
 ## [MixxitPlugin](https://github.com/Username7495/Mods-and-Tweaks-for-Cypress/blob/main/Mixxit%20Install%20Guide.md)
   A universal plug-in for Hmod for dealing damage to mobs and players that supports tools, armor, and food.
+<img width="1536" height="986" alt="image" src="https://github.com/user-attachments/assets/7b0078b4-d022-4afe-92a8-ad7b6e3e8f12" />

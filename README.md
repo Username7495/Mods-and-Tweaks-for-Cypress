@@ -13,7 +13,9 @@
 <img width="858" height="508" alt="image" src="https://github.com/user-attachments/assets/7ec7eb1e-4e21-4a5b-a873-18cac69c96de" />
 
 ## MixxitPlugin
-  A PVP plugin for Hmod.
+  A universal plug-in for dealing damage to mobs and players that supports tools, armor, and food.
+
+  Note: Apply armor, and eat food (replenish health) by pressing the left click.
 
 # Installation Guide
   ## Controls+

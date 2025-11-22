@@ -16,3 +16,9 @@
   A universal plug-in for Hmod for dealing damage to mobs and players that supports tools, armor, and food.
   
 <img width="1536" height="986" alt="image" src="https://github.com/user-attachments/assets/7b0078b4-d022-4afe-92a8-ad7b6e3e8f12" />
+
+ServReload Mod
+Server-side mod that allows to reload the server via command.
+
+ServReload Plugin
+A plugin that automatically reloads the server.

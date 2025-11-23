@@ -1,6 +1,8 @@
 # Mods-and-Tweaks-for-Cypress
-  A collection of a few mods for Minecraft 1.0.16.05_20 Cypress. These include a client mod allowing for easy rebinding of hardcoded keys, and a server mod essentially like bukkit.
+  A collection of a few mods for Minecraft 1.0.16.05_20 Cypress. These include a client mod allowing for easy rebinding of hardcoded keys, a server mod essentially like bukkit, adding F2 screenshots and more.
 
+  [Jar Modding Guide](https://github.com/Username7495/Mods-and-Tweaks-for-Cypress/blob/main/Jar%20Modding%20Guide.md)
+  
 ## [Controls+](https://github.com/Username7495/Mods-and-Tweaks-for-Cypress/blob/main/Controls%2B%20Install%20Guide.md) 
   A client-side mod that allows to rebind some hardcoded and keys only bindable through the console.
   

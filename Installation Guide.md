@@ -1,6 +1,6 @@
 # Installation Methods
-  In Cypress there are generally 3 ways for installing mods, patching the jar, adding to jar (exclusive to MultiMC based launchers), and class adding (server only). They have all have thier own use cases.
-
+  In Cypress there are generally 3 ways for installing mods, patching the jar, adding to jar (exclusive to MultiMC based launchers), and class adding (server only).
+  
 ## Jar Patching
   Jar patching is the universal way of modding as it is supported by any launcher. To start you need a application that can open jars, 7Zip is what is used in any tutorials, and the mods' class files unzipped.
   
@@ -46,10 +46,10 @@
 
   Then, run the server with this template "java -classpath Mod.jar;Server.jar -Xmx1024M -Xms1024M Main". To add more mods add the other mod seperated by a semicolon ex. "java -classpath Mod1.jar;Mod2.jar;Server.jar -Xmx1024M -Xms1024M Main"
 
-  <img width="922" height="547" alt="image" src="https://github.com/user-attachments/assets/fc853cda-5052-44de-87b4-4e285ebd2ad3" />
-
+  <img width="827" height="542" alt="image" src="https://github.com/user-attachments/assets/22c272d3-e18f-4d4e-8933-2019d66e1155" />
+  
   Hit enter, and run the server.
 
-  <img width="1350" height="837" alt="image" src="https://github.com/user-attachments/assets/19eebbb0-25f3-4f50-a06a-21f6fc721881" />
+  <img width="856" height="512" alt="image" src="https://github.com/user-attachments/assets/407c4a58-df56-44ba-bcf5-88ee3a0efa19" />
 
   ### You're done!

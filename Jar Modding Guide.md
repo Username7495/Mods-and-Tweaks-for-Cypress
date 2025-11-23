@@ -37,7 +37,7 @@
 
   ### You're Done!
 
-## Class Adding
+## Adding to Classpath
   Class adding is a modding method exclusive to servers and is the less permanent than jar patching.
 
   To start open your server folder in cmd.exe.

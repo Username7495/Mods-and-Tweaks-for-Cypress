@@ -24,3 +24,6 @@ Server-side mod that allows to reload the server via command.
 
 ## [ServReload Plugin](https://github.com/Username7495/Mods-and-Tweaks-for-Cypress/blob/main/ServReload%20Plugin%20Install%20Guide.md)
 A plugin that automatically reloads the server.
+
+## Screenshot
+A client-side mod that allows to take screenshots

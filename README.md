@@ -26,4 +26,7 @@ Server-side mod that allows to reload the server via command.
 A plugin that automatically sends messages and commands, and reloads the server.
 
 ## Screenshot
-A client-side mod that allows to take screenshots
+A client-side mod that allows to take screenshots.
+
+## WorldCustomization
+A client-side mod that allows to customize the worlds.

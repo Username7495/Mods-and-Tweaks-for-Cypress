@@ -20,13 +20,19 @@
 <img width="1536" height="986" alt="image" src="https://github.com/user-attachments/assets/7b0078b4-d022-4afe-92a8-ad7b6e3e8f12" />
 
 ## [ServReload](https://github.com/Username7495/Mods-and-Tweaks-for-Cypress/blob/main/ServReload%20Install%20Guide.md)
-Server-side mod that allows to reload the server via command.
+  Server-side mod that allows to reload the server via command.
 
 ## [ServSchedule](https://github.com/Username7495/Mods-and-Tweaks-for-Cypress/blob/main/ServSchedule%20Install%20Guide.md)
-A plugin that automatically sends messages and commands, and reloads the server.
+  A plugin that automatically sends messages and commands, and reloads the server.
 
 ## Screenshot
-A client-side mod that allows to take screenshots.
+  A client-side mod that allows to take screenshots.
 
 ## WorldCustomization
-A client-side mod that allows to customize the worlds.
+  A client-side mod that allows to customize the worlds.
+
+## mod_Saplings
+  A modloader mod that adds teawood, frigid, highwood, flamewood saplings.
+
+## Zan's Minimap
+  A modloader mod that adds minimap to upper left corner of the screen.

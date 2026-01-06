@@ -35,4 +35,13 @@
   A modloader mod that adds teawood, frigid, highwood, flamewood saplings.
 
 ## Zan's Minimap
-  A modloader mod that adds minimap to upper left corner of the screen.
+  A modloader mod that adds minimap to upper right corner of the screen.
+
+## MoreBlockIDs
+  A client-side mod that extends the block IDs to 32767. (Not compatible with old worlds!)
+
+## MoreItemTextures
+  A client-side mod that expands the size of items.png to 256x512.
+
+## mod_IndustrialCraft
+  A client-side mod that adds industrial revolution to the game. (Requires ScotsToolsAPI, MoreBlockIDs, MoreItemTextures!)

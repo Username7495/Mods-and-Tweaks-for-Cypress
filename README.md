@@ -45,3 +45,8 @@
 
 ## mod_IndustrialCraft
   A client-side mod that adds industrial revolution to the game. (Requires ScotsToolsAPI, MoreBlockIDs, MoreItemTextures!)
+
+  (IndustrialCraft with "Custom" tag requires ScotsToolsAPI, MoreBlockIDs, Modloader Custom Terrain And Items!)
+
+## Modloader Custom Terrain And Items
+  A Modloader extension which allows to use custom terrain.png and items.png for blocks and items.

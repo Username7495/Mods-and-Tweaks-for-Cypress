@@ -50,3 +50,6 @@
 
 ## Modloader Custom Terrain And Items
   A Modloader extension which allows to use custom terrain.png and items.png for blocks and items.
+
+## mod_PlasticCraft
+  A client-side mod that adds plastic to the game. (Requires MoreBlockIDs, Modloader Custom Terrain And Items!)

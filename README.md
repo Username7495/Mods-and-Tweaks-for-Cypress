@@ -53,3 +53,6 @@
 
 ## mod_PlasticCraft
   A client-side mod that adds plastic to the game. (Requires MoreBlockIDs, Modloader Custom Terrain And Items!)
+
+## mod_PortalGun
+  A client-side mod that adds portals to the game. (Requires MoreBlockIDs, Modloader Custom Terrain And Items!)

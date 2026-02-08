@@ -56,3 +56,12 @@
 
 ## mod_PortalGun
   A client-side mod that adds portals to the game. (Requires MoreBlockIDs, Modloader Custom Terrain And Items!)
+
+## GuiAPI
+  API that allows to add easy to create and use settings and menus.
+
+## mod_IDResolver
+  A client-side mod that reassigns the IDs of items and blocks if those IDs are already in use. (Requires GuiAPI!)
+
+## mod_RecipeBook
+  A client-side mod that allows to view all crafting recipes.

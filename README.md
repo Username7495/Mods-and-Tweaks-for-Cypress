@@ -38,30 +38,48 @@
   A modloader mod that adds minimap to upper right corner of the screen.
 
 ## MoreBlockIDs
-  A client-side mod that extends the block IDs to 32767. (Not compatible with old worlds!)
+  A client-side/server-side mod that extends the block IDs to 32767. (Not compatible with old worlds!)
 
-## MoreItemTextures
+## MoreItemTextures (Deprecated!)
   A client-side mod that expands the size of items.png to 256x512.
 
-## mod_IndustrialCraft
+## mod_IndustrialCraft (Deprecated!)
   A client-side mod that adds industrial revolution to the game. (Requires ScotsToolsAPI, MoreBlockIDs, MoreItemTextures!)
 
   (IndustrialCraft with "Custom" tag requires ScotsToolsAPI, MoreBlockIDs, Modloader Custom Terrain And Items!)
 
-## Modloader Custom Terrain And Items
+## Modloader Custom Terrain And Items (Deprecated!)
   A Modloader extension which allows to use custom terrain.png and items.png for blocks and items.
 
-## mod_PlasticCraft
+## mod_PlasticCraft (Deprecated!)
   A client-side mod that adds plastic to the game. (Requires MoreBlockIDs, Modloader Custom Terrain And Items!)
 
-## mod_PortalGun
+## mod_PortalGun (Deprecated!)
   A client-side mod that adds portals to the game. (Requires MoreBlockIDs, Modloader Custom Terrain And Items!)
 
 ## GuiAPI
   API that allows to add easy to create and use settings and menus.
 
-## mod_IDResolver
+## mod_IDResolver (Deprecated!)
   A client-side mod that reassigns the IDs of items and blocks if those IDs are already in use. (Requires GuiAPI!)
 
 ## mod_RecipeBook
   A client-side mod that allows to view all crafting recipes.
+
+## CustomTerrainItemsV2
+  A Modloader extension which allows to use custom terrain.png and items.png for blocks and items.
+
+## mod_IDResolver_CustomV2
+  A client-side mod that reassigns the IDs of items and blocks if those IDs are already in use. (Requires GuiAPI!) (Only works with CustomTerrainItemsV2!)
+
+## mod_IndustrialCraft_CustomV2
+  A client-side mod that adds industrial revolution to the game. (Requires ScotsToolsAPI, MoreBlockIDs, CustomTerrainItemsV2!)
+
+## mod_PlasticCraftV2
+  A client-side mod that adds plastic to the game. (Requires MoreBlockIDs, CustomTerrainItemsV2!)
+
+## mod_PortalGunV2
+  A client-side mod that adds portals to the game. (Requires MoreBlockIDs, CustomTerrainItemsV2!)
+
+## mod_Flowers
+  A client-side mod that adds flowers and pine trees to the game. (Requires MoreBlockIDs, CustomTerrainItemsV2!)

@@ -83,3 +83,9 @@
 
 ## mod_Flowers
   A client-side mod that adds flowers and pine trees to the game. (Requires MoreBlockIDs, CustomTerrainItemsV2!)
+
+## mod_NerfSuperSoaker (April Fool's Joke)
+  This Nerf Super Soaker water blaster for adults and kids has a tank made with recycled plastic bottles, and comes in a recyclable, paper-based package which is plastic-free except for tape and glue. At Hasbro, we’re passionate about protecting our planet and conserving its natural resources. We believe every package makes a difference, please recycle this one. With the Nerf Super Soaker XP50-AP toy blaster, you can experience the water-drenching fun that started it all, because it features the original air-pressurized water launching mechanism and classic styling. It's a blast from the past for today’s water warriors! Fill the tank, pump the handle to pressurize the tank, and pull the trigger to unleash a continuous, air-powered blast of water. Tank capacity is approximately 24 fluid ounces (709 milliliters). Kids summer toys and outdoor games like Nerf Super Soaker water blasters are great gifts for 6 year old boys and girls who enjoy active outdoor water play.
+
+## mod_MoCreatures
+  A client-side mod that adds more creatures to the game. (Adds Horses, Lions, Wolves, Foxes, Bears, Polar Bears, Ducks, Boars, Bunnies, Birds, Ogres, Fire Ogres, Cave Ogres, Werewolves!)

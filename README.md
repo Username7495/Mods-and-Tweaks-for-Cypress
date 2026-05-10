@@ -96,3 +96,5 @@
 ## mod_extAmberwood
   A global client-side mod that adds new biomes, new rare mobs, new tree types, flowers and other unused stuff, and many more. (Requires MoreBlockIDs, CustomTerrainItemsV2, ScotsToolsAPI, CodecJLayerMP3Cypress!) (Not compatible with mod_Saplings, mod_Flowers!)
 
+## mod_BetterStairs
+  A port of [Client_Stairs_Modern](https://github.com/FMG793/1.0.16.05_20-Cypress-Mods-And-Deobfuscated-Code/blob/main/mods_NEW/Client_Stairs_Modern.zip) that makes stairs act modern. (Only works with CustomTerrainItemsV2!)

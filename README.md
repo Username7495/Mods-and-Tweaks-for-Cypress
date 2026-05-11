@@ -98,3 +98,6 @@
 
 ## mod_BetterStairs
   A port of [Client_Stairs_Modern](https://github.com/FMG793/1.0.16.05_20-Cypress-Mods-And-Deobfuscated-Code/blob/main/mods_NEW/Client_Stairs_Modern.zip) that makes stairs act modern. (Only works with CustomTerrainItemsV2!)
+
+## mod_CraftGuide
+  A client-side mod (port of [CraftGuide](https://github.com/Uristqwerty/CraftGuide)) that adds Crafting Guide Book. (No furnace recipes!)

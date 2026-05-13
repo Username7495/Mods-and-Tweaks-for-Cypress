@@ -37,7 +37,7 @@
 ## Zan's Minimap
   A modloader mod that adds minimap to upper right corner of the screen.
 
-## MoreBlockIDs
+## MoreBlockIDs (Deprecated!)
   A client-side/server-side mod that extends the block IDs to 32767. (Not compatible with old worlds!)
 
 ## MoreItemTextures (Deprecated!)
@@ -101,3 +101,6 @@
 
 ## mod_CraftGuide
   A client-side mod (port of [CraftGuide](https://github.com/Uristqwerty/CraftGuide)) that adds Crafting Guide Book. (No furnace recipes!)
+
+## MoreBlockIDsV2
+  A client-side/server-side mod that extends the block IDs to 32767. (Compatible with Old Worlds, Freerun Worlds, ZM Worlds!)

@@ -104,3 +104,6 @@
 
 ## MoreBlockIDsV2
   A client-side/server-side mod that extends the block IDs to 32767. (Compatible with Old Worlds, Freerun Worlds, ZM Worlds!)
+
+## CypressServerRemake
+   A remake of a server for Cypress based on Alpha 1.2.6 server. Fixes damage, doors, signs, furnaces, chests, freezers, boats, minecarts, arrows, essence projectiles, spears, levers, buttons, greenstone, and many more.

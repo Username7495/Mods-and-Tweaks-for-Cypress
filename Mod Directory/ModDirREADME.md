@@ -29,7 +29,7 @@
 <details>
   <summary> A client-side mod that allows to rebind some hardcoded and keys only bindable through the console.</summary>
   
-<img width="1535" height="958" alt="image" src="https://github.com/Username7495/Mods-and-Tweaks-for-Cypress/blob/main/Repo%20Files/controls%2B.png" />
+<img alt="image" src="https://github.com/Username7495/Mods-and-Tweaks-for-Cypress/blob/main/Repo%20Files/controls%2B.png" />
 </details>
 
 ### &nbsp;mod_RecipeBook
@@ -63,17 +63,29 @@
   A client-side mod (port of [CraftGuide](https://github.com/Uristqwerty/CraftGuide)) that adds Crafting Guide Book. (No furnace recipes!)
 
 ### &nbsp;Screenshot
-  A client-side mod that allows to take screenshots.
+<details>
+  <summary>A client-side mod that allows to take screenshots.</summary>
+
+  <img alt="image" src="https://github.com/Username7495/Mods-and-Tweaks-for-Cypress/blob/main/Repo%20Files/screenshot.png">
+</details>
 
 ### &nbsp;WorldCustomization
-  A client-side mod that allows to customize the worlds.
+  <details>
+    <summary>A client-side mod that adds a few world settings.</summary>
+
+   <img alt="image" src="https://github.com/Username7495/Mods-and-Tweaks-for-Cypress/blob/main/Repo%20Files/world_customization-(new_world).png"> 
+  </details>
 
 ### &nbsp;mod_Saplings
   A modloader mod that adds teawood, frigid, highwood, flamewood saplings.
 
 ### &nbsp;Zan's Minimap
-  A modloader mod that adds minimap to upper right corner of the screen.
+  <details>
+    <summary>A modloader mod that adds minimap to upper right corner of the screen.</summary>
 
+  <img alt="image" src="https://github.com/Username7495/Mods-and-Tweaks-for-Cypress/blob/main/Repo%20Files/zan's_minimap.png">
+  </details>
+  
 </details>
 
 <details>
@@ -83,14 +95,14 @@
   <details>
     <summary>A bukkit-type modification for Minecraft Alpha allowing for plugins on the server, and better server customization.</summary>
   
-<img width="858" height="508" alt="image" src="https://github.com/Username7495/Mods-and-Tweaks-for-Cypress/blob/main/Repo%20Files/hmod_help.png" />
+<img alt="image" src="https://github.com/Username7495/Mods-and-Tweaks-for-Cypress/blob/main/Repo%20Files/hmod_help.png" />
   </details>
 
 ### &nbsp;[MixxitPlugin](https://github.com/Username7495/Mods-and-Tweaks-for-Cypress/blob/main/Mixxit%20Install%20Guide.md)
   <details>
     <summary>A universal plug-in for Hmod for dealing damage to mobs and players that supports tools, armor, and food.</summary>
   
-<img width="1536" height="986" alt="image" src="https://github.com/Username7495/Mods-and-Tweaks-for-Cypress/blob/main/Repo%20Files/mixxit_example.png" />
+<img alt="image" src="https://github.com/Username7495/Mods-and-Tweaks-for-Cypress/blob/main/Repo%20Files/mixxit_example.png" />
   </details>
 
 ### &nbsp;[ServReload](https://github.com/Username7495/Mods-and-Tweaks-for-Cypress/blob/main/ServReload%20Install%20Guide.md)

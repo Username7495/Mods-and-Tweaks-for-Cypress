@@ -97,6 +97,11 @@
 
 </details>
 
+## Deprecated Mods
+
+<details>
+  <summary> &nbsp;Mods that are no longer supported, usually superceded by something else.</summary>
+  
 ### &nbsp;MoreBlockIDs (Deprecated!)
   A client-side/server-side mod that extends the block IDs to 32767. (Not compatible with old worlds!)
 
@@ -108,14 +113,15 @@
 
   (IndustrialCraft with "Custom" tag requires ScotsToolsAPI, MoreBlockIDs, Modloader Custom Terrain And Items!)
 
-### Modloader Custom Terrain And Items (Deprecated!)
+### &nbsp;Modloader Custom Terrain And Items (Deprecated!)
   A Modloader extension which allows to use custom terrain.png and items.png for blocks and items.
 
-### mod_PlasticCraft (Deprecated!)
+### &nbsp;mod_PlasticCraft (Deprecated!)
   A client-side mod that adds plastic to the game. (Requires MoreBlockIDs, Modloader Custom Terrain And Items!)
 
-### mod_PortalGun (Deprecated!)
+### &nbsp;mod_PortalGun (Deprecated!)
   A client-side mod that adds portals to the game. (Requires MoreBlockIDs, Modloader Custom Terrain And Items!)
 
-### mod_IDResolver (Deprecated!)
+### &nbsp;mod_IDResolver (Deprecated!)
   A client-side mod that reassigns the IDs of items and blocks if those IDs are already in use. (Requires GuiAPI!)
+</details>

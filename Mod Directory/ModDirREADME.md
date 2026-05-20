@@ -1,66 +1,109 @@
-# Mod Directory
-  An easy way to browse, see examples of, and get info for mods.
+# <em>Mod Directory</em>
+  <p> An easy way to browse, see examples of, and get info for mods.</p>
   
-  ## Prerequesites
+## Prerequesite Mods
   <details>
-    <summary>Mods that other mods depend on to run, a.k.a. Dependencies</summary>
+    <summary> &nbsp;Mods that other mods depend on to run, a.k.a. Dependencies</summary>
     
-### CodecJLayerMP3Cypress
+  ### CodecJLayerMP3Cypress
   A port of [CodecJLayerMP3](https://github.com/spoutcraft/codecjlayermp3) that allows to use music and sounds in .mp3 format.
-
-### GuiAPI
-  API that allows to add easy to create and use settings and menus.
-
-### CustomTerrainItemsV2
+  
+  ### CustomTerrainItemsV2
   A Modloader extension which allows to use custom terrain.png and items.png for blocks and items.
 
-### mod_IDResolver_CustomV2
+  ### GuiAPI
+  API that allows to add easy to create and use settings and menus.
+
+  ### mod_IDResolver_CustomV2
   A client-side mod that reassigns the IDs of items and blocks if those IDs are already in use. (Requires GuiAPI!) (Only works with CustomTerrainItemsV2!)
   
   </details>
 
-### [Controls+](https://github.com/Username7495/Mods-and-Tweaks-for-Cypress/blob/main/Controls%2B%20Install%20Guide.md) 
+## Content Mods
+  <p> &nbsp;Files that directly alter the '''vanilla''' Cypress experience. </p>
+
+  <details>
+    <summary> &nbsp;Client Mods</summary>
+
+  ### &nbsp;[Controls+](https://github.com/Username7495/Mods-and-Tweaks-for-Cypress/blob/main/Controls%2B%20Install%20Guide.md) 
 <details>
-  <summary>A client-side mod that allows to rebind some hardcoded and keys only bindable through the console.</summary>
+  <summary> A client-side mod that allows to rebind some hardcoded and keys only bindable through the console.</summary>
   
 <img width="1535" height="958" alt="image" src="https://github.com/user-attachments/assets/47485fdd-4c12-4aad-9297-6498ce95305c" />
 </details>
 
-### [Hmod Cypress](https://github.com/Username7495/Mods-and-Tweaks-for-Cypress/blob/main/Hmod%20Install%20Guide.md)
+### &nbsp;mod_RecipeBook
+  A client-side mod that allows to view all crafting recipes.
+
+### &nbsp;mod_IndustrialCraft_CustomV2
+  A client-side mod that adds industrial revolution to the game. (Requires ScotsToolsAPI, MoreBlockIDs, CustomTerrainItemsV2!)
+
+### &nbsp;mod_PlasticCraftV2
+  A client-side mod that adds plastic to the game. (Requires MoreBlockIDs, CustomTerrainItemsV2!)
+
+### &nbsp;mod_PortalGunV2
+  A client-side mod that adds portals to the game. (Requires MoreBlockIDs, CustomTerrainItemsV2!)
+
+### &nbsp;mod_Flowers
+  A client-side mod that adds flowers and pine trees to the game. (Requires MoreBlockIDs, CustomTerrainItemsV2!)
+
+### &nbsp;mod_NerfSuperSoaker (April Fool's Joke)
+  This Nerf Super Soaker water blaster for adults and kids has a tank made with recycled plastic bottles, and comes in a recyclable, paper-based package which is plastic-free except for tape and glue. At Hasbro, we’re passionate about protecting our planet and conserving its natural resources. We believe every package makes a difference, please recycle this one. With the Nerf Super Soaker XP50-AP toy blaster, you can experience the water-drenching fun that started it all, because it features the original air-pressurized water launching mechanism and classic styling. It's a blast from the past for today’s water warriors! Fill the tank, pump the handle to pressurize the tank, and pull the trigger to unleash a continuous, air-powered blast of water. Tank capacity is approximately 24 fluid ounces (709 milliliters). Kids summer toys and outdoor games like Nerf Super Soaker water blasters are great gifts for 6 year old boys and girls who enjoy active outdoor water play.
+
+### &nbsp;mod_MoCreatures
+  A client-side mod that adds more creatures to the game. (Adds Horses, Lions, Wolves, Foxes, Bears, Polar Bears, Ducks, Boars, Bunnies, Birds, Ogres, Werewolves!) (Requires GuiAPI!)
+
+### &nbsp;mod_extAmberwood
+  A global client-side mod that adds new biomes, new rare mobs, new tree types, flowers and other unused stuff, and many more. (Requires MoreBlockIDs, CustomTerrainItemsV2, ScotsToolsAPI, CodecJLayerMP3Cypress!) (Not compatible with mod_Saplings, mod_Flowers!)
+
+### &nbsp;mod_BetterStairs
+  A port of [Client_Stairs_Modern](https://github.com/FMG793/1.0.16.05_20-Cypress-Mods-And-Deobfuscated-Code/blob/main/mods_NEW/Client_Stairs_Modern.zip) that makes stairs act modern. (Only works with CustomTerrainItemsV2!)
+
+### &nbsp;mod_CraftGuide
+  A client-side mod (port of [CraftGuide](https://github.com/Uristqwerty/CraftGuide)) that adds Crafting Guide Book. (No furnace recipes!)
+
+### &nbsp;Screenshot
+  A client-side mod that allows to take screenshots.
+
+### &nbsp;WorldCustomization
+  A client-side mod that allows to customize the worlds.
+
+### &nbsp;mod_Saplings
+  A modloader mod that adds teawood, frigid, highwood, flamewood saplings.
+
+### &nbsp;Zan's Minimap
+  A modloader mod that adds minimap to upper right corner of the screen.
+
+</details>
+
+<details>
+  <summary> &nbsp;Server Mods</summary>
+  
+### &nbsp;[Hmod Cypress](https://github.com/Username7495/Mods-and-Tweaks-for-Cypress/blob/main/Hmod%20Install%20Guide.md)
   A bukkit-type modification for Minecraft Alpha allowing for plugins on the server, and better server customization.
   
 <img width="858" height="508" alt="image" src="https://github.com/user-attachments/assets/7ec7eb1e-4e21-4a5b-a873-18cac69c96de" />
 
-### [MixxitPlugin](https://github.com/Username7495/Mods-and-Tweaks-for-Cypress/blob/main/Mixxit%20Install%20Guide.md)
+### &nbsp;[MixxitPlugin](https://github.com/Username7495/Mods-and-Tweaks-for-Cypress/blob/main/Mixxit%20Install%20Guide.md)
   A universal plug-in for Hmod for dealing damage to mobs and players that supports tools, armor, and food.
   
 <img width="1536" height="986" alt="image" src="https://github.com/user-attachments/assets/7b0078b4-d022-4afe-92a8-ad7b6e3e8f12" />
 
-### [ServReload](https://github.com/Username7495/Mods-and-Tweaks-for-Cypress/blob/main/ServReload%20Install%20Guide.md)
+### &nbsp;[ServReload](https://github.com/Username7495/Mods-and-Tweaks-for-Cypress/blob/main/ServReload%20Install%20Guide.md)
   Server-side mod that allows to reload the server via command.
 
-### [ServSchedule](https://github.com/Username7495/Mods-and-Tweaks-for-Cypress/blob/main/ServSchedule%20Install%20Guide.md)
+### &nbsp;[ServSchedule](https://github.com/Username7495/Mods-and-Tweaks-for-Cypress/blob/main/ServSchedule%20Install%20Guide.md)
   A plugin that automatically sends messages and commands, and reloads the server.
 
-### Screenshot
-  A client-side mod that allows to take screenshots.
+</details>
 
-### WorldCustomization
-  A client-side mod that allows to customize the worlds.
-
-### mod_Saplings
-  A modloader mod that adds teawood, frigid, highwood, flamewood saplings.
-
-### Zan's Minimap
-  A modloader mod that adds minimap to upper right corner of the screen.
-
-### MoreBlockIDs (Deprecated!)
+### &nbsp;MoreBlockIDs (Deprecated!)
   A client-side/server-side mod that extends the block IDs to 32767. (Not compatible with old worlds!)
 
-### MoreItemTextures (Deprecated!)
+### &nbsp;MoreItemTextures (Deprecated!)
   A client-side mod that expands the size of items.png to 256x512.
 
-### mod_IndustrialCraft (Deprecated!)
+### &nbsp;mod_IndustrialCraft (Deprecated!)
   A client-side mod that adds industrial revolution to the game. (Requires ScotsToolsAPI, MoreBlockIDs, MoreItemTextures!)
 
   (IndustrialCraft with "Custom" tag requires ScotsToolsAPI, MoreBlockIDs, Modloader Custom Terrain And Items!)
@@ -76,33 +119,3 @@
 
 ### mod_IDResolver (Deprecated!)
   A client-side mod that reassigns the IDs of items and blocks if those IDs are already in use. (Requires GuiAPI!)
-
-### mod_RecipeBook
-  A client-side mod that allows to view all crafting recipes.
-
-### mod_IndustrialCraft_CustomV2
-  A client-side mod that adds industrial revolution to the game. (Requires ScotsToolsAPI, MoreBlockIDs, CustomTerrainItemsV2!)
-
-### mod_PlasticCraftV2
-  A client-side mod that adds plastic to the game. (Requires MoreBlockIDs, CustomTerrainItemsV2!)
-
-### mod_PortalGunV2
-  A client-side mod that adds portals to the game. (Requires MoreBlockIDs, CustomTerrainItemsV2!)
-
-### mod_Flowers
-  A client-side mod that adds flowers and pine trees to the game. (Requires MoreBlockIDs, CustomTerrainItemsV2!)
-
-### mod_NerfSuperSoaker (April Fool's Joke)
-  This Nerf Super Soaker water blaster for adults and kids has a tank made with recycled plastic bottles, and comes in a recyclable, paper-based package which is plastic-free except for tape and glue. At Hasbro, we’re passionate about protecting our planet and conserving its natural resources. We believe every package makes a difference, please recycle this one. With the Nerf Super Soaker XP50-AP toy blaster, you can experience the water-drenching fun that started it all, because it features the original air-pressurized water launching mechanism and classic styling. It's a blast from the past for today’s water warriors! Fill the tank, pump the handle to pressurize the tank, and pull the trigger to unleash a continuous, air-powered blast of water. Tank capacity is approximately 24 fluid ounces (709 milliliters). Kids summer toys and outdoor games like Nerf Super Soaker water blasters are great gifts for 6 year old boys and girls who enjoy active outdoor water play.
-
-### mod_MoCreatures
-  A client-side mod that adds more creatures to the game. (Adds Horses, Lions, Wolves, Foxes, Bears, Polar Bears, Ducks, Boars, Bunnies, Birds, Ogres, Werewolves!) (Requires GuiAPI!)
-
-### mod_extAmberwood
-  A global client-side mod that adds new biomes, new rare mobs, new tree types, flowers and other unused stuff, and many more. (Requires MoreBlockIDs, CustomTerrainItemsV2, ScotsToolsAPI, CodecJLayerMP3Cypress!) (Not compatible with mod_Saplings, mod_Flowers!)
-
-### mod_BetterStairs
-  A port of [Client_Stairs_Modern](https://github.com/FMG793/1.0.16.05_20-Cypress-Mods-And-Deobfuscated-Code/blob/main/mods_NEW/Client_Stairs_Modern.zip) that makes stairs act modern. (Only works with CustomTerrainItemsV2!)
-
-### mod_CraftGuide
-  A client-side mod (port of [CraftGuide](https://github.com/Uristqwerty/CraftGuide)) that adds Crafting Guide Book. (No furnace recipes!)
